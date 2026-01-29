@@ -1,0 +1,1 @@
+export default function Experience(){return(<section className='section' id='experience'><h2>Experience</h2><div className='item'><h3>AI Intern</h3></div></section>);}

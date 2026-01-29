@@ -1,0 +1,1 @@
+export default function Certifications(){return(<section className='section' id='certifications'><h2>Certifications</h2><div className='item'>Microsoft AI Skills Challenge</div></section>);}

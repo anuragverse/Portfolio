@@ -1,0 +1,1 @@
+export default function Education(){return(<section className='section' id='education'><h2>Education</h2><div className='item'>B.Tech CSE</div></section>);}
