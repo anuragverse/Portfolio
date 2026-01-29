@@ -1,2 +1,0 @@
-import {motion} from 'framer-motion';
-export default function Section({title,children}){return(<motion.section id={title.toLowerCase()} className='section' initial={{opacity:0,y:35}} whileInView={{opacity:1,y:0}} viewport={{once:true}}><h2>{title}</h2><div className='item'>{children}</div></motion.section>);}
